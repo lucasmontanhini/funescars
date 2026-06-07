@@ -117,7 +117,7 @@ Remoção segura de registros e dados depreciados utilizando a cláusula `DELETE
 * **CONSULTA 1**<br>
   *Essa consulta filtra por rua, como só temos um cliente na `avenida paulista`, este é o resultado:*
 <p align="center">
-  <img width="619" height="415" alt="Captura de tela 2026-06-07 155817" src="https://github.com/user-attachments/assets/04eb2f59-7966-426f-b984-8fe7ca08f709" />
+  <img width="741" height="384" alt="image" src="https://github.com/user-attachments/assets/b3f511ed-44f7-4961-8295-650e0575e6cf" />
 </p>
 
 * **CONSULTA 2**<br>
