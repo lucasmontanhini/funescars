@@ -25,13 +25,13 @@ Após essa etapa,
 (O script de criação das tabelas está disponivel neste repositório, acima e com o nome "schema.sql")
 <img width="1919" height="1042" alt="Captura de tela 2026-06-07 142153" src="https://github.com/user-attachments/assets/005249e5-0892-4a62-bf40-ebc054bbb5d6" />
 <br>
-As tabelas foram geradas seguindo a estrutura que havíamos almejado.
-Foram criadas algumas tabelas associativas:
-- Como os telefones eram atributos compostos, criamos uma tabela para armazenar os telefones, relacionando o identificador utilizado (no nosso caso o CPF) com o telefone do usuário.
-- Locações são relacionadas na tabela "locacao", que armazena o cliente, tem seu ID próprio para registro no sistema (com serial para gerar automaticamente os IDs), armazena o funcionário que realizou a locação, datas, valor e possui uma boolean para marcar se está ativa ou não, facilitando as consultas posteriorees.
+As tabelas foram geradas seguindo a estrutura que havíamos almejado.<br>
+Foram criadas algumas tabelas associativas:<br>
+- Como os telefones eram atributos compostos, criamos uma tabela para armazenar os telefones, relacionando o identificador utilizado (no nosso caso o CPF) com o telefone do usuário.<br>
+- Locações são relacionadas na tabela "locacao", que armazena o cliente, tem seu ID próprio para registro no sistema (com serial para gerar automaticamente os IDs), armazena o funcionário que realizou a locação, datas, valor e possui uma boolean para marcar se está ativa ou não, facilitando as consultas posteriorees.<br>
 - Vistorias também têm sua tabelas associativa, relacionando o mecânico que executou a vistoria com o veículo e o laudo técnico.
 <br>
-Embora não seja o melhor em uso corporativo, utilizamos os CPFs como identificadores únicos dentro do sistema, assim cada funcionário é identificável e cada mecânico também.
+Embora não seja o melhor em uso corporativo, utilizamos os CPFs como identificadores únicos dentro do sistema, assim cada funcionário é identificável e cada mecânico também.<br>
 Veículos têm o campo de status, onde é possível consultar em qual STATUS o veículo se encontra.
 <br>
 <img width="1914" height="1039" alt="image" src="https://github.com/user-attachments/assets/26646735-43fa-43ff-af89-3cb53e1371c6" />
