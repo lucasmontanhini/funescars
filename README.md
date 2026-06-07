@@ -1,4 +1,5 @@
 <h1 style="font-weight: bold;">Funescars</h1>
+<img width="2816" height="935" alt="Gemini_Generated_Image_4hn3sm4hn3sm4hn3" src="https://github.com/user-attachments/assets/5c9b8ea5-a138-45b4-9f48-6d81be768cfd" />
 Data Base scenario for database grade on Technology University of Saint Paul (FATEC-SP)<br>
 STUDENT: LUCAS MONTANHINI<br>
 <br>
@@ -11,7 +12,7 @@ STUDENT: LUCAS MONTANHINI<br>
 <img width="2321" height="1550" alt="diagrama" src="https://github.com/user-attachments/assets/5f8311cc-1a0c-4d5f-b68a-95265548b42b" />
 Contendo descrição a identificação certeira das entidades, relacionamentos e atributos.
 <br>
-Após essa etapa,
+<h2>Após essa etapa,</h2>
 <h1 style="font-weight: bold;">MODELAGEM LÓGICA</h1>
 Elaboração das tabelas perante modelo lógico:
 
