@@ -113,7 +113,6 @@ Remoção segura de registros e dados depreciados utilizando a cláusula `DELETE
 
 ## Consultas Avançadas e Relatórios
 
-Abaixo estão descritas as consultas de inteligência de negócio elaboradas para extração de relatórios operacionais:<br>
 ---
 * **CONSULTA 1**<br>
   *Essa consulta filtra por rua, como só temos um cliente na `avenida paulista`, este é o resultado:*
