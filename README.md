@@ -173,3 +173,5 @@ Remoção segura de registros e dados depreciados utilizando a cláusula `DELETE
 <p align="center">
   <img width="619" height="415" alt="Captura de tela 2026-06-07 155817" src="https://github.com/user-attachments/assets/04eb2f59-7966-426f-b984-8fe7ca08f709" />
 </p>
+
+* **COM ISSO FINALIZAMOS O TRABALHO PROPOSTO e agora a FUNESCARS poderá finalmente usufruir da tecnologia ao locar veículos**
