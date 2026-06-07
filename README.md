@@ -58,7 +58,7 @@ Usufruindo do INNER JOIN
 <img width="853" height="863" alt="Captura de tela 2026-06-07 142546" src="https://github.com/user-attachments/assets/6d8f0293-760f-4887-8638-346b9a74fb07" />
 
 UPDATE:<br>
-UPDATE é importantíssimo, nada nessa vida é imutável:
+UPDATE é importantíssimo, nada nessa vida é imutável:<br>
 <img width="1094" height="698" alt="Captura de tela 2026-06-07 142845" src="https://github.com/user-attachments/assets/6d3f86c3-9fa4-4d55-a7e8-dc94c84c6645" />
 
 Antes:<br>
@@ -73,8 +73,8 @@ DELETE:<br>
 Excluir informações depreciadas:<br>
 <img width="418" height="181" alt="Captura de tela 2026-06-07 142948" src="https://github.com/user-attachments/assets/ad87ff13-bc1a-4995-8898-34b76f0a1d52" />
 
-ANTES:
+ANTES:<br>
 <img width="850" height="478" alt="Captura de tela 2026-06-07 143004" src="https://github.com/user-attachments/assets/db3a986f-837f-4106-8599-6d184f8b1509" />
 <img width="1086" height="669" alt="Captura de tela 2026-06-07 143024" src="https://github.com/user-attachments/assets/8c3a5b8e-e945-478d-8528-349869460540" />
-<img width="850" height="540" alt="Captura de tela 2026-06-07 143114" src="https://github.com/user-attachments/assets/470292e7-5175-4ffa-8685-a8121966f852" />
+<img width="850" height="540" alt="Captura de tela 2026-06-07 143114" src="https://github.com/user-attachments/assets/470292e7-5175-4ffa-8685-a8121966f852" /><br>
 Não sobrou nada.
