@@ -10,14 +10,14 @@ STUDENT: LUCAS MONTANHINI<br>
 
 <img width="2321" height="1550" alt="diagrama" src="https://github.com/user-attachments/assets/5f8311cc-1a0c-4d5f-b68a-95265548b42b" />
 Contendo descrição a identificação certeira das entidades, relacionamentos e atributos.
-
+<br>
 Após essa etapa,
 <h1 style="font-weight: bold;">MODELAGEM LÓGICA</h1>
 Elaboração das tabelas perante modelo lógico:
 
 <img width="3501" height="2025" alt="Modelagem lógica" src="https://github.com/user-attachments/assets/b9efb456-04bc-4b23-8c0e-e0ec2c78e683" />
 Tendo construído essa estrutura, é chegada a hora da verdade, botando a mão na massa.
-
+<br>
 Após essa etapa,
 <h1 style="font-weight: bold;">MODELAGEM FÍSICA</h1>
 
@@ -35,13 +35,13 @@ Veículos têm o campo de status, onde é possível consultar em qual STATUS o v
 
 <img width="1914" height="1039" alt="image" src="https://github.com/user-attachments/assets/26646735-43fa-43ff-af89-3cb53e1371c6" />
 Armazenamos os dados conforme o tipo correto, sem complicação.
-
+<br>
 Após essa etapa,
 <h1 style="font-weight: bold;">CRUD</h1>
 CRUD, sigla do inglês, significa CREATE, READ, UPDATE and DELETE, eu creio que possamos ler em português como CLAR (CRIAR, LER, ATUALIZAR e DELETAR) — nome bem bonito e corporativo.<br>
-Mas indo direto ao ponto, o DB da FunesCars executa perfeitamente todos os ofícios do CRUD:
+Mas indo direto ao ponto, o DB da FunesCars executa perfeitamente todos os ofícios do CRUD:<br>
 
-CREATE:
+CREATE:<br>
 Para popular o banco de dados, utilizei um algoritmo (disponível no repositório) que me gerou as entradas necessárias (popular.sql)
 <img width="1918" height="1042" alt="Captura de tela 2026-06-07 142230" src="https://github.com/user-attachments/assets/202ac5a6-bcdd-4bb0-bb72-d940cbe6a4bd" />
 
@@ -50,27 +50,27 @@ No entanto, como não só de tecnologia vive o homem, eis a inserção manual de
 Executado com sucesso!
 <img width="1540" height="102" alt="image" src="https://github.com/user-attachments/assets/d5e1ecd5-07af-4bdf-8c8a-0354349ed834" />
 
-READ:
+READ:<br>
 A leitura é uma dádiva do ser humano, eis aqui a dádiva em prática:
 <img width="860" height="861" alt="Captura de tela 2026-06-07 142401" src="https://github.com/user-attachments/assets/84503aab-4bac-4f70-bdff-b8ba7f5daf65" />
 
 Usufruindo do INNER JOIN
 <img width="853" height="863" alt="Captura de tela 2026-06-07 142546" src="https://github.com/user-attachments/assets/6d8f0293-760f-4887-8638-346b9a74fb07" />
 
-UPDATE:
+UPDATE:<br>
 UPDATE é importantíssimo, nada nessa vida é imutável:
 <img width="1094" height="698" alt="Captura de tela 2026-06-07 142845" src="https://github.com/user-attachments/assets/6d3f86c3-9fa4-4d55-a7e8-dc94c84c6645" />
 
-Antes:
+Antes:<br>
 <img width="1470" height="213" alt="Captura de tela 2026-06-07 142800" src="https://github.com/user-attachments/assets/81436ff6-3f9a-464d-95cd-48b3a9087026" />
 
-Posteriormente:
+Posteriormente:<br>
 <img width="1269" height="525" alt="Captura de tela 2026-06-07 142901" src="https://github.com/user-attachments/assets/8f0b6745-eeea-4774-b5e1-a2ac1c2aff75" />
 
-UPDATE está updateando corretamente.
+UPDATE está updateando corretamente.<br>
 
-DELETE:
-Excluir informações depreciadas:
+DELETE:<br>
+Excluir informações depreciadas:<br>
 <img width="418" height="181" alt="Captura de tela 2026-06-07 142948" src="https://github.com/user-attachments/assets/ad87ff13-bc1a-4995-8898-34b76f0a1d52" />
 
 ANTES:
