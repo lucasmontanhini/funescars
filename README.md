@@ -38,7 +38,7 @@ Armazenamos os dados conforme o tipo correto, sem complicação.
 
 Após essa etapa,
 <h1 style="font-weight: bold;">CRUD</h1>
-CRUD, sigla do inglês, significa CREATE, READ, UPDATE and DELETE, eu creio que possamos ler em português como CLAR (CRIAR, LER, ATUALIZAR e DELETAR) — nome bem bonito e corporativo.
+CRUD, sigla do inglês, significa CREATE, READ, UPDATE and DELETE, eu creio que possamos ler em português como CLAR (CRIAR, LER, ATUALIZAR e DELETAR) — nome bem bonito e corporativo.<br>
 Mas indo direto ao ponto, o DB da FunesCars executa perfeitamente todos os ofícios do CRUD:
 
 CREATE:
