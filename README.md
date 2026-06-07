@@ -44,7 +44,8 @@ CRUD, sigla do inglês, significa CREATE, READ, UPDATE and DELETE, eu creio que 
 Mas indo direto ao ponto, o DB da FunesCars executa perfeitamente todos os ofícios do CRUD:
 <br>
 
-CREATE:<br>
+<h3>CREATE:</h3>
+<br>
 Para popular o banco de dados, utilizei um algoritmo (disponível no repositório) que me gerou as entradas necessárias (popular.sql)
 <img width="1918" height="1042" alt="Captura de tela 2026-06-07 142230" src="https://github.com/user-attachments/assets/202ac5a6-bcdd-4bb0-bb72-d940cbe6a4bd" />
 
@@ -53,14 +54,16 @@ No entanto, como não só de tecnologia vive o homem, eis a inserção manual de
 Executado com sucesso!
 <img width="1540" height="102" alt="image" src="https://github.com/user-attachments/assets/d5e1ecd5-07af-4bdf-8c8a-0354349ed834" />
 
-READ:<br>
+<h3>READ:</h3>
+<br>
 A leitura é uma dádiva do ser humano, eis aqui a dádiva em prática:
 <img width="860" height="861" alt="Captura de tela 2026-06-07 142401" src="https://github.com/user-attachments/assets/84503aab-4bac-4f70-bdff-b8ba7f5daf65" />
 
 Usufruindo do INNER JOIN
 <img width="853" height="863" alt="Captura de tela 2026-06-07 142546" src="https://github.com/user-attachments/assets/6d8f0293-760f-4887-8638-346b9a74fb07" />
 
-UPDATE:<br>
+<h3>UPDATE:</h3>
+<br>
 UPDATE é importantíssimo, nada nessa vida é imutável:<br>
 <img width="1094" height="698" alt="Captura de tela 2026-06-07 142845" src="https://github.com/user-attachments/assets/6d3f86c3-9fa4-4d55-a7e8-dc94c84c6645" />
 
@@ -72,7 +75,8 @@ Posteriormente:<br>
 
 UPDATE está updateando corretamente.<br>
 
-DELETE:<br>
+<h3>DELETE:</h3>
+<br>
 Excluir informações depreciadas:<br>
 <img width="418" height="181" alt="Captura de tela 2026-06-07 142948" src="https://github.com/user-attachments/assets/ad87ff13-bc1a-4995-8898-34b76f0a1d52" />
 
