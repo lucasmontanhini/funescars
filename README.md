@@ -115,61 +115,61 @@ Remoção segura de registros e dados depreciados utilizando a cláusula `DELETE
 
 Abaixo estão descritas as consultas de inteligência de negócio elaboradas para extração de relatórios operacionais:<br>
 ---
-* **CONSULTA 1**
+* **CONSULTA 1**<br>
   *Essa consulta filtra por rua, como só temos um cliente na `avenida paulista`, este é o resultado:*
 <p align="center">
   <img width="619" height="415" alt="Captura de tela 2026-06-07 155817" src="https://github.com/user-attachments/assets/04eb2f59-7966-426f-b984-8fe7ca08f709" />
 </p>
 
-* **CONSULTA 2**
+* **CONSULTA 2**<br>
   *Essa consulta permite ver os veículos cujo status é de `disponível`:*
 <p align="center">
   <img width="918" height="671" alt="Captura de tela 2026-06-07 155949" src="https://github.com/user-attachments/assets/d9a0905c-f3af-4b31-86d4-2d3bc0cab489" />
 </p>
 
-* **CONSULTA 3**
+* **CONSULTA 3**<br>
   *Essa consulta filtra por salários maiores que `R$5000,00`:*
 <p align="center">
   <img width="795" height="691" alt="Captura de tela 2026-06-07 160037" src="https://github.com/user-attachments/assets/10a02e93-7f2d-4692-bb34-90c628d660a0" />
 </p>
 
-* **CONSULTA 4**
+* **CONSULTA 4**<br>
   *Essa consulta permite encontrar os `SUVS` e `SEDANS` que são `ELÉTRICOS` e a `GASOLINA`:*
 <p align="center">
   <img width="877" height="726" alt="Captura de tela 2026-06-07 160137" src="https://github.com/user-attachments/assets/70d84f83-47eb-4c8b-adeb-d5efef3033fb" />
 </p>
 
-* **CONSULTA 5**
+* **CONSULTA 5**<br>
   *Essa consulta utiliza o recurso `LIKE` para encontrar emails de domínios específicos, no nosso caso, o domínio @exemplo.com:*
 <p align="center">
   <img width="829" height="691" alt="Captura de tela 2026-06-07 160224" src="https://github.com/user-attachments/assets/d54112ae-4fe7-4958-93f2-9a6c355d84d0" />
 </p>
 
-* **CONSULTA 6**
+* **CONSULTA 6**<br>
   *Essa consulta nos mostra funcionários contratados depois de `2024`, e como não temos nenhum, não obtemos resultado:*
 <p align="center">
   <img width="744" height="618" alt="Captura de tela 2026-06-07 160318" src="https://github.com/user-attachments/assets/3479f820-7fc7-4fe0-824f-ff68ec776c98" />
 </p>
 
-* **CONSULTA 7**
+* **CONSULTA 7**<br>
   *Essa consulta nos mostra as locações entre `R$1500,00` e `R$4000,00`, evidenciando o `nome` do cliente:*
 <p align="center">
   <img width="864" height="737" alt="Captura de tela 2026-06-07 160753" src="https://github.com/user-attachments/assets/f013c668-b567-46b4-b98a-5f7f96111ea1" />
 </p>
 
-* **CONSULTA 8**
+* **CONSULTA 8**<br>
   *Essa consulta nos mostra quais locações estão com a data final em `null`, ou seja, ainda não foram finalizadas:*
 <p align="center">
  <img width="833" height="728" alt="Captura de tela 2026-06-07 160853" src="https://github.com/user-attachments/assets/9af126b4-f3b0-4387-99f4-e336c786377e" />
 </p>
 
-* **CONSULTA 9**
+* **CONSULTA 9**<br>
   *Essa consulta mostra o `status` dos veículos, fazendo uso do `inner join` para cruzar as informações entre as tabelas de vistoria e veículos:*
 <p align="center">
  <img width="1490" height="595" alt="Captura de tela 2026-06-07 161146" src="https://github.com/user-attachments/assets/f47aa7df-4f98-4d42-9929-492778fd1930" />
 </p>
 
-* **CONSULTA 10**
+* **CONSULTA 10**<br>
   *Essa consulta mostra os `atendentes` e `vendedores` da unidade `1`:*
 <p align="center">
   <img width="619" height="415" alt="Captura de tela 2026-06-07 155817" src="https://github.com/user-attachments/assets/04eb2f59-7966-426f-b984-8fe7ca08f709" />
