@@ -68,7 +68,8 @@ Como tínhamos no nosso modelo conceitual o atributo derivado "tempo de serviço
 Visualizando:<br>
 <img width="933" height="538" alt="image" src="https://github.com/user-attachments/assets/725be2f2-a13f-472f-b881-ba93f64829a2" />
 
-
+Refinando visualização com alias:
+<img width="1527" height="510" alt="image" src="https://github.com/user-attachments/assets/50a0ee1b-4a39-4827-b202-715e9d240912" />
 
 <h3>UPDATE:</h3>
 <br>
@@ -93,3 +94,6 @@ ANTES:<br>
 <img width="1086" height="669" alt="Captura de tela 2026-06-07 143024" src="https://github.com/user-attachments/assets/8c3a5b8e-e945-478d-8528-349869460540" />
 <img width="850" height="540" alt="Captura de tela 2026-06-07 143114" src="https://github.com/user-attachments/assets/470292e7-5175-4ffa-8685-a8121966f852" /><br>
 Não sobrou nada.
+
+<h1>CONSULTAS</h1>
+Agora vamos pra parte séria:
