@@ -56,11 +56,19 @@ Executado com sucesso!
 
 <h3>READ:</h3>
 <br>
-A leitura é uma dádiva do ser humano, eis aqui a dádiva em prática:
+A leitura é uma dádiva do ser humano, eis aqui a dádiva em prática::<br>
 <img width="860" height="861" alt="Captura de tela 2026-06-07 142401" src="https://github.com/user-attachments/assets/84503aab-4bac-4f70-bdff-b8ba7f5daf65" />
 
-Usufruindo do INNER JOIN
+Usufruindo do INNER JOIN::<br>
 <img width="853" height="863" alt="Captura de tela 2026-06-07 142546" src="https://github.com/user-attachments/assets/6d8f0293-760f-4887-8638-346b9a74fb07" />
+
+Como tínhamos no nosso modelo conceitual o atributo derivado "tempo de serviço", vamos criar uma view para visualizá-la::<br>
+<img width="1039" height="318" alt="image" src="https://github.com/user-attachments/assets/9367a243-589e-4c12-8115-39fa1b739848" />
+
+Visualizando:<br>
+<img width="933" height="538" alt="image" src="https://github.com/user-attachments/assets/725be2f2-a13f-472f-b881-ba93f64829a2" />
+
+
 
 <h3>UPDATE:</h3>
 <br>
