@@ -12,7 +12,7 @@ STUDENT: LUCAS MONTANHINI<br>
 <img width="2321" height="1550" alt="diagrama" src="https://github.com/user-attachments/assets/5f8311cc-1a0c-4d5f-b68a-95265548b42b" />
 Contendo descrição a identificação certeira das entidades, relacionamentos e atributos.
 <br>
-<h2>Após essa etapa,</h2>
+<h4>Após essa etapa,</h4>
 <h1 style="font-weight: bold;">MODELAGEM LÓGICA</h1>
 Elaboração das tabelas perante modelo lógico:
 
