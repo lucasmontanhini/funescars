@@ -4,8 +4,8 @@
   <img width="100%" alt="Funescars Banner" src="https://github.com/user-attachments/assets/5c9b8ea5-a138-45b4-9f48-6d81be768cfd" style="border-radius: 8px;" />
 </p>
 
-> **Cenário de Banco de Dados** desenvolvido para a disciplina de Banco de Dados.
-> **Instituição:** Faculdade de Tecnologia do Estado de São Paulo (FATEC)
+> **Cenário de Banco de Dados** desenvolvido para a disciplina de Banco de Dados.<br>
+> **Instituição:** Faculdade de Tecnologia do Estado de São Paulo (FATEC)<br>
 > **Estudante:** Lucas Montanhini
 
 ---
