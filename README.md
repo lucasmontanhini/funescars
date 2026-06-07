@@ -8,39 +8,41 @@ STUDENT: LUCAS MONTANHINI<br>
 <br>
 <h1 style="font-weight: bold;">MODELAGEM CONCEITUAL</h1>
   A primeira etapa efetiva do trabalho foi desenvolver o DIAGRAMA ENTIDADE-RELACIONAMENTO, seguindo os moldes cunhados por PETER CHEN
-
+<br>
 <img width="2321" height="1550" alt="diagrama" src="https://github.com/user-attachments/assets/5f8311cc-1a0c-4d5f-b68a-95265548b42b" />
 Contendo descrição a identificação certeira das entidades, relacionamentos e atributos.
 <br>
 <h4>Após essa etapa,</h4>
 <h1 style="font-weight: bold;">MODELAGEM LÓGICA</h1>
 Elaboração das tabelas perante modelo lógico:
-
+<br>
 <img width="3501" height="2025" alt="Modelagem lógica" src="https://github.com/user-attachments/assets/b9efb456-04bc-4b23-8c0e-e0ec2c78e683" />
 Tendo construído essa estrutura, é chegada a hora da verdade, botando a mão na massa.
 <br>
 Após essa etapa,
 <h1 style="font-weight: bold;">MODELAGEM FÍSICA</h1>
-
+<br>
 (O script de criação das tabelas está disponivel neste repositório, acima e com o nome "schema.sql")
 <img width="1919" height="1042" alt="Captura de tela 2026-06-07 142153" src="https://github.com/user-attachments/assets/005249e5-0892-4a62-bf40-ebc054bbb5d6" />
-
+<br>
 As tabelas foram geradas seguindo a estrutura que havíamos almejado.
 Foram criadas algumas tabelas associativas:
 - Como os telefones eram atributos compostos, criamos uma tabela para armazenar os telefones, relacionando o identificador utilizado (no nosso caso o CPF) com o telefone do usuário.
 - Locações são relacionadas na tabela "locacao", que armazena o cliente, tem seu ID próprio para registro no sistema (com serial para gerar automaticamente os IDs), armazena o funcionário que realizou a locação, datas, valor e possui uma boolean para marcar se está ativa ou não, facilitando as consultas posteriorees.
 - Vistorias também têm sua tabelas associativa, relacionando o mecânico que executou a vistoria com o veículo e o laudo técnico.
-
+<br>
 Embora não seja o melhor em uso corporativo, utilizamos os CPFs como identificadores únicos dentro do sistema, assim cada funcionário é identificável e cada mecânico também.
 Veículos têm o campo de status, onde é possível consultar em qual STATUS o veículo se encontra.
-
+<br>
 <img width="1914" height="1039" alt="image" src="https://github.com/user-attachments/assets/26646735-43fa-43ff-af89-3cb53e1371c6" />
 Armazenamos os dados conforme o tipo correto, sem complicação.
 <br>
 Após essa etapa,
 <h1 style="font-weight: bold;">CRUD</h1>
-CRUD, sigla do inglês, significa CREATE, READ, UPDATE and DELETE, eu creio que possamos ler em português como CLAR (CRIAR, LER, ATUALIZAR e DELETAR) — nome bem bonito e corporativo.<br>
-Mas indo direto ao ponto, o DB da FunesCars executa perfeitamente todos os ofícios do CRUD:<br>
+CRUD, sigla do inglês, significa CREATE, READ, UPDATE and DELETE, eu creio que possamos ler em português como CLAR (CRIAR, LER, ATUALIZAR e DELETAR) — nome bem bonito e corporativo.
+<br>
+Mas indo direto ao ponto, o DB da FunesCars executa perfeitamente todos os ofícios do CRUD:
+<br>
 
 CREATE:<br>
 Para popular o banco de dados, utilizei um algoritmo (disponível no repositório) que me gerou as entradas necessárias (popular.sql)
